@@ -1,3 +1,3 @@
-# Click-Game-React
+# Click Based Image Memory Game
 
-## Completed app: [Click Here](https://office-click-game.herokuapp.com/)
+## Try it out! [Click Here](https://office-click-game.herokuapp.com/)
